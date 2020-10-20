@@ -79,7 +79,7 @@ Open up two terminal windows, one for the front end and one for
 In one terminal, run
 
 ```
-node back/driver.js back/data.csv
+node back/driver.js data/data.csv
 ```
 
 This starts the server and tells it what data to use.
