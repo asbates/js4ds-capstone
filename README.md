@@ -103,3 +103,15 @@ If you have suggestions, please let me know!
 And really, since this is such a simple application, it's probably not worth it.
 I can figure out deployment when I have something more substantial to share.
 
+# Testing
+
+There are a few tests included which test the server functionality.
+These aren't really meant to be exhaustive.
+Rather, just to server as examples of testing.
+If you want to run the tests, you can run
+
+```
+npm test -- back/test-server.js
+```
+
+from within the project directory.
